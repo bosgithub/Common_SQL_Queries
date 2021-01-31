@@ -1,11 +1,27 @@
 # Common_SQL_Queries
 
-Commands:
+## Commands:
+
 Select
+
 Distinct
+
 From
+
 Where
+
 In/Or/And
+
 Order By
+
 Min/Max
+
 Count/Avg/Sum
+
+Between
+
+Join
+
+Group By
+
+Having
