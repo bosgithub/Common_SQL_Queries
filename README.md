@@ -10,6 +10,8 @@ From
 
 Where
 
+Case When Then Else End
+
 In/Or/And
 
 Order By
